@@ -1,0 +1,11 @@
+what is the use of git log ?
+->It keeps track of all the commits that have been made
+
+what is the use of git diff command ?
+-> It can be used to compare two commits to checks which changes have been made in the new commit and point out the bugs that might have been introduced in the new commit
+
+what is the function of git clone command ?
+->It creates a clone of a repositoryif if the url or address of the repository is known
+
+git checkout command ?
+->This command is use to switch to a particular version of commit. Bugs can be removed instatntly by switching to a version of the previous commit where error has not been introduced
